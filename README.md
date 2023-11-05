@@ -1,6 +1,6 @@
 # Moodle Theme Pirot #
 
-Based on Child theme Boost.
+Based on child theme Boost.
 Version: Moodle 4.x.
 
 ## Installing via uploaded ZIP file ##
